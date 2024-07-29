@@ -1,0 +1,14 @@
+# willow-user 11 RKQ1.201004.002 V12.5.6.0.RCXMIXM release-keys
+- manufacturer: xiaomi
+- platform: trinket
+- codename: willow
+- flavor: willow-user
+- release: 11
+- id: RKQ1.201004.002
+- incremental: V12.5.6.0.RCXMIXM
+- tags: release-keys
+- fingerprint: xiaomi/willow/willow:11/RKQ1.201004.002/V12.5.6.0.RCXMIXM:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: willow-user-11-RKQ1.201004.002-V12.5.6.0.RCXMIXM-release-keys
+- repo: xiaomi_willow_dump
